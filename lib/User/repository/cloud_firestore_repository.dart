@@ -10,4 +10,4 @@ class CloudFirestoreRepository {
 
   void updateUserDataFirestore(User user) => _cloudFirestoreAPI.updateUserData(user);
   Future<void> updatePlaceData(Place place) => _cloudFirestoreAPI.updatePlaceData(place);
-  List<ProfilePlace> buildPlaces(List<DocumentSnapshot> placesListSnapshot)=>_cloudFirestoreAPI.buildPlaces(placesListSnapshot);
+  List<ProfilePlace> buildPlaces(List<DocumentSnapshot> placesListSnapshot)=>_cloudFirestoreAPI.buildPlaces(placesListSnapshot);}
