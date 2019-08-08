@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://platzitripsflutter-248416.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">650570407108</string>
+    <string name="google_api_key" translatable="false">AIzaSyBT2c4mFev96aN3oFWofFai8qWtwBoeSF8</string>
+    <string name="google_app_id" translatable="false">1:650570407108:android:80d3dd1ca61cb156</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBT2c4mFev96aN3oFWofFai8qWtwBoeSF8</string>
+    <string name="google_storage_bucket" translatable="false">platzitripsflutter-248416.appspot.com</string>
+    <string name="project_id" translatable="false">platzitripsflutter-248416</string>
+</resources>
